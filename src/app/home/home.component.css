@@ -1,0 +1,21 @@
+.Top{
+    background-color: #1abc9c;
+    height: 100vh;
+
+}
+
+/* =============Top========= */
+
+
+img{
+    width: 20%;
+    }
+
+/* =============img========= */
+
+.textt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: #2c3e50; */
+}

@@ -1,0 +1,35 @@
+.middle{
+    background-color: #2c3e50;
+}
+
+
+/* ================= middle ========= */
+
+.CON{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+/* ================== Con ================ */
+
+.last{
+    background-color: #1a252f;
+}
+
+/* ================== last ================ */
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: #2c3e50 ;
+    /* border: 10px solid whitesmoke; */
+    border-radius: 100%;
+    border:1px solid white;
+}
+
+
+
